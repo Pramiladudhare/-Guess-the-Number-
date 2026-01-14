@@ -1,5 +1,7 @@
 let random;
 let max;
+/* small change */
+
 
 const startBtn = document.getElementById("startBtn");
 const gameArea = document.getElementById("gameArea");
