@@ -1,6 +1,6 @@
 let random;
 let max;
-/* small  the change */
+/* small  the  g change */
 
 
 const startBtn = document.getElementById("startBtn");
